@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8785091063",
+    "project_id": "peliculas-flutter",
+    "storage_bucket": "peliculas-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8785091063:android:f5f449bfe085239f2976f2",
+        "android_client_info": {
+          "package_name": "com.example.peliculas_proyects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8785091063-ssa4gqmgr0ia8g78m522qc7n8amuumd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0GHMqta9MLzZaSBneMtt3wyn4Ox4PkHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8785091063-ssa4gqmgr0ia8g78m522qc7n8amuumd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
